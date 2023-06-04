@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Helton Maia</h1>
-<h3 align="center">Professor and Researcher in AI</h3>
+<h2 align="center">Professor and Researcher in AI at UFRN</h2>
+<h3 align="center">Robotics and Automation Laboratory (LAR/ECT)</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heltonmaia&label=Profile%20views&color=0e75b6&style=flat" alt="heltonmaia" /> </p>
 
