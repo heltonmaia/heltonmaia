@@ -14,6 +14,12 @@
   -  [Artificial intelligence for music]
   -  [Hand prosthesis control]
   -  [Navigation of robots]
+
+- Classes:
+  - C++ Programming Language
+  - Deep learning for Computer Vision
+
+- Extra Content:
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heltonmaia&show_icons=true&locale=en" alt="heltonmaia" /></p>
 
