@@ -7,13 +7,13 @@
 📫 How to reach me **helton.maia@ufrn.br**
 
 - 🔭 List of projects I'm working on:
-  -  [Robotic arm control](https://github.com/heltonmaia/ECT-proj-roboticArm)
-  -  [Safe distance between vehicles using drones](https://github.com/heltonmaia/ECT-proj-cnn-vant)
-  -  [Mice tracking - PCA ](https://github.com/xarmison/proj-pca) 
-  -  [Mice tracking - CNN ](https://github.com/heltonmaia/ECT-proj-cnn-mice)
-  -  [Artificial intelligence for music]
-  -  [Hand prosthesis control]
-  -  [Navigation of robots]
+  -  [Robotic Arm Control](https://github.com/heltonmaia/ECT-proj-roboticArm)
+  -  [Safe Distance Between Vehicles Using Drones](https://github.com/heltonmaia/ECT-proj-cnn-vant)
+  -  [Mice Tracking - PCA ](https://github.com/xarmison/proj-pca) 
+  -  [Mice Tracking - CNN ](https://github.com/heltonmaia/ECT-proj-cnn-mice)
+  -  [Artificial Intelligence for Music]
+  -  [Hand Prosthesis Control]
+  -  [Navigation of Robots]
 
 - Classes:
   - C++ Programming Language
