@@ -9,7 +9,8 @@
 - 🔭 List of projects I'm working on:
   -  [Robotic arm control](https://github.com/heltonmaia/ECT-proj-roboticArm)
   -  [Safe distance between vehicles using drones](https://github.com/heltonmaia/ECT-proj-cnn-vant)
-  -  [Mice tracking ](https://github.com/xarmison/proj-pca)
+  -  [Mice tracking - PCA ](https://github.com/xarmison/proj-pca) 
+  -  [Mice tracking - CNN ](https://github.com/heltonmaia/ECT-proj-cnn-mice)
   -  [Artificial intelligence for music]
   -  [Hand prosthesis control]
   -  [Navigation of robots]
