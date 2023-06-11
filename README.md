@@ -6,11 +6,13 @@
 
 📫 How to reach me **helton.maia@ufrn.br**
 
-- 🔭 I’m currently working on:
-  -  [Robotic Arm](https://github.com/heltonmaia/ECT-proj-roboticArm)
-  -  [Prok mice](https://github.com/heltonmaia/ECT-proj-roboticArm)
-  -  [Proj Drone](https://github.com/heltonmaia/ECT-proj-roboticArm)
-  -  [others](https://github.com/heltonmaia/ECT-proj-roboticArm)
+- 🔭 List of projects I'm working on:
+  -  [Robotic arm control](https://github.com/heltonmaia/ECT-proj-roboticArm)
+  -  [Safe distance between vehicles using drones](https://github.com/heltonmaia/ECT-proj-cnn-vant)
+  -  [Mice tracking ](https://github.com/xarmison/proj-pca)
+  -  [Artificial intelligence for music]
+  -  [Hand prosthesis control]
+  -  [Navigation of robots]
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heltonmaia&show_icons=true&locale=en" alt="heltonmaia" /></p>
 
