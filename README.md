@@ -26,7 +26,7 @@
 
 - Extra Content:
   - [URA (One robot per student)](https://github.com/Natalnet/ura-codes)
-  - [Rasp pi pico w](https://datasheets.raspberrypi.com/picow/connecting-to-the-internet-with-pico-w.pdf?_gl=1*1pgv92c*_ga*MTM0MjYyMTMxMi4xNjg3MDMyODA4*_ga_22FD70LWDS*MTY4NzQzNzg5My4xLjAuMTY4NzQzNzkwNC4wLjAuMA..](https://datasheets.raspberrypi.com/picow/connecting-to-the-internet-with-pico-w.pdf?_gl=1*e0yfj9*_ga*MTM0MjYyMTMxMi4xNjg3MDMyODA4*_ga_22FD70LWDS*MTY4NzQzNzg5My4xLjAuMTY4NzQzNzkxNC4wLjAuMA..)
+  - [Rasp pi pico w](https://datasheets.raspberrypi.com/picow/connecting-to-the-internet-with-pico-w.pdf?_gl=1*e0yfj9*_ga*MTM0MjYyMTMxMi4xNjg3MDMyODA4*_ga_22FD70LWDS*MTY4NzQzNzg5My4xLjAuMTY4NzQzNzkxNC4wLjAuMA..)
     
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heltonmaia&show_icons=true&locale=en" alt="heltonmaia" /></p>
