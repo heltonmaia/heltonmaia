@@ -6,7 +6,7 @@
 
 📫 How to reach me **helton.maia@ufrn.br**
 
-- 🔭 List of projects I'm working on:
+- 🔭 List of projects:
   -  [Robotic Arm Control](https://github.com/heltonmaia/ECT-proj-roboticArm)
   -  [Safe Distance Between Vehicles Using Drones](https://github.com/heltonmaia/ECT-proj-cnn-vant)
   -  [Mice Tracking - PCA ](https://github.com/xarmison/proj-pca) 
