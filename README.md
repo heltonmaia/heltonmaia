@@ -21,6 +21,8 @@
 
 - Tutorials:
   - [3D modeling Using Onshape](https://github.com/heltonmaia/tutorials/tree/main/3Dmodelling)
+  - OpenCV (Open Computer Vision Library) - Basics
+  - Reinforcement Learning Using Gymnasium-Robotics
 
 - Extra Content:
   - [URA (One robot per student)](https://github.com/Natalnet/ura-codes)
