@@ -20,6 +20,7 @@
   - Deep learning for Computer Vision
 
 - Extra Content:
+  - 3D modeling using Onshape
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heltonmaia&show_icons=true&locale=en" alt="heltonmaia" /></p>
 
