@@ -20,7 +20,7 @@
   - Deep Learning for Computer Vision
 
 - Extra Content:
-  - 3D modeling Using Onshape
+  - [3D modeling Using Onshape](https://github.com/heltonmaia/tutorials/tree/main/3Dmodelling)
   - URA (One robot per student)
     
 <!--
