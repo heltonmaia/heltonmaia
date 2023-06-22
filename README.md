@@ -17,10 +17,10 @@
 
 - Classes:
   - C++ Programming Language
-  - Deep learning for Computer Vision
+  - Deep Learning for Computer Vision
 
 - Extra Content:
-  - 3D modeling using Onshape
+  - 3D modeling Using Onshape
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heltonmaia&show_icons=true&locale=en" alt="heltonmaia" /></p>
 
