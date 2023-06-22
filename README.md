@@ -21,7 +21,7 @@
 
 - Tutorials:
   - [3D modeling Using Onshape](https://github.com/heltonmaia/tutorials/tree/main/3Dmodelling)
-  - OpenCV (Open Computer Vision Library) - Basics
+  - Open Computer Vision Library (OpenCV) - Basics
   - Reinforcement Learning Using Gymnasium-Robotics
 
 - Extra Content:
