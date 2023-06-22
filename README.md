@@ -19,8 +19,10 @@
   - C++ Programming Language
   - Deep Learning for Computer Vision
 
-- Extra Content:
+- Tutorials:
   - [3D modeling Using Onshape](https://github.com/heltonmaia/tutorials/tree/main/3Dmodelling)
+
+- Extra Content:
   - [URA (One robot per student)](https://github.com/Natalnet/ura-codes)
     
 <!--
