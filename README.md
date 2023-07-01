@@ -17,7 +17,7 @@
 
 - Classes:
   - C++ Programming Language
-  - Deep Learning for Computer Vision
+  - [Deep Learning for Computer Vision](https://github.com/heltonmaia/classes/edit/main/VC/README.md)
 
 - Tutorials:
   - [3D modeling Using Onshape](https://github.com/heltonmaia/tutorials/tree/main/3Dmodelling)
